@@ -78,53 +78,7 @@ Liderança Abrasiva e Exigente: Embora muitas vezes descrito como ríspido e aut
 
 ## 📖 Miniguia de Estudo — Resultado Final
 
-### 📝 Resumo Estruturado
-
-**Quem foi Steve Jobs?**
-Steve Jobs (1955–2011) foi cofundador da Apple, da Pixar e da NeXT. É reconhecido como um dos maiores visionários da era da tecnologia, responsável por produtos como o Macintosh, iPod, iPhone e iPad — produtos que redefiniriam categorias inteiras de mercado.
-
-**Sua metodologia em 5 princípios:**
-
-1. **Foco radical** — eliminar o desnecessário para potencializar o essencial
-2. **Design como função** — beleza e usabilidade como parte do produto, não adorno
-3. **Visão de longo prazo** — criar produtos que o mercado ainda não sabe que quer
-4. **A intersecção** — inovação nasce onde tecnologia encontra arte e humanidades
-5. **Excelência não negociável** — "bom o suficiente" nunca era suficiente para Jobs
-
----
-
-### 📚 Glossário — Principais Conceitos
-
-| Conceito | Definição |
-|----------|-----------|
-| **Reality Distortion Field** | Capacidade de Jobs de convencer sua equipe de que o impossível era realizável, criando um senso de urgência e possibilidade fora do comum |
-| **Think Different** | Filosofia e campanha da Apple que valorizava mentes criativas e desafiadoras do status quo |
-| **Connecting the Dots** | Ideia de Jobs de que só é possível conectar experiências passadas olhando para trás — por isso, toda experiência tem valor futuro |
-| **Intersecção** | Ponto onde tecnologia e humanidades se encontram, local onde Jobs acreditava nascer a verdadeira inovação |
-| **Design Thinking (Jobs)** | Para Jobs, design não era como algo parecia, mas como algo funcionava — centrado sempre no humano |
-| **Simplicity** | Princípio central da Apple: produtos complexos por dentro, simples por fora |
-
----
-
-### 🔁 Prompts Reutilizáveis para Revisões Futuras
-
-Estes prompts podem ser reaproveitados em futuras sessões no NotebookLM ou em qualquer IA:
-
-```
-1. "Resuma os principais ensinamentos de [pessoa/fonte] em 5 princípios aplicáveis para profissionais de tecnologia."
-
-2. "Quais foram os maiores erros de [pessoa] e o que eles revelam sobre sua mentalidade?"
-
-3. "Compare a abordagem de [pessoa A] com [pessoa B] sobre o tema de [inovação/liderança/produto]."
-
-4. "Crie um glossário com os 10 conceitos mais importantes presentes nestas fontes."
-
-5. "Baseado nas fontes, quais hábitos diários de [pessoa] podem ser replicados por qualquer profissional?"
-
-6. "Extraia citações diretas de [pessoa] sobre o tema [design/liderança/falha] e explique o contexto de cada uma."
-```
-
----
+https://notebooklm.google.com/notebook/7aa29fad-e931-4724-91e3-82816c80f445
 
 ## 🛠️ Tecnologias Utilizadas
 
